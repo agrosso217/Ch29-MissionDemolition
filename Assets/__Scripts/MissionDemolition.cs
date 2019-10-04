@@ -113,7 +113,7 @@ public class MissionDemolition : MonoBehaviour {
 
             case "Show Castle":
                 FollowCam.POI = S.castle;
-                uitButton.text = "Show Castle";
+                uitButton.text = "Show Both";
                 break;
 
             case "Show Both":
